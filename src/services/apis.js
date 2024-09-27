@@ -1,5 +1,5 @@
-//const BASE_URL = "https://course-x-backend-tzpt.onrender.com/api/v1";
-const BASE_URL="http://localhost:4000/api/v1";
+const BASE_URL = "https://gurukul-backend-emma.onrender.com/";
+//const BASE_URL="http://localhost:4000/api/v1";
 
 // AUTH ENDPOINTS
 export const endpoints = {

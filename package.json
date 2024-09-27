@@ -1,6 +1,6 @@
 {
-  "name": "course-x",
-  "description": "course-x-frontend",
+  "name": "gurukul",
+  "description": "gurukul-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
