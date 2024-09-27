@@ -1,0 +1,11 @@
+.imgRes {
+  width: 250px;
+  height: 100px;
+}
+
+@media (max-width: 370px) {
+  .imgRes {
+  width: 70px;
+  height: 24px;
+  }
+}
